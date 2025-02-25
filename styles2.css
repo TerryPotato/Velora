@@ -209,12 +209,10 @@ p{
     margin-right: 10px;       
   }
 
-/* Estilos para el formulario */
 .formulario h1, .formulario h3 {
     text-align: center;
 }
 
-/* Media queries para pantallas pequeñas */
 @media (max-width: 768px) {
     .navbar-brand {
         font-size: 40px;
@@ -237,7 +235,6 @@ p{
     }
 }
 
-/* Media queries para pantallas muy pequeñas */
 @media (max-width: 576px) {
     .navbar-brand {
         font-size: 30px;

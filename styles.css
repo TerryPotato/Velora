@@ -152,14 +152,10 @@ body {
     vertical-align: middle;           
     margin-right: 10px;       
 }
-
-/* Estilos para las imágenes */
 .img-fluid {
     max-width: 100%;
     height: auto;
 }
-
-/* Media queries para pantallas pequeñas */
 @media (max-width: 768px) {
     .navbar-brand {
         font-size: 40px;
@@ -193,8 +189,6 @@ body {
         font-size: 1.5rem;
     }
 }
-
-/* Media queries para pantallas muy pequeñas */
 @media (max-width: 576px) {
     .navbar-brand {
         font-size: 30px;
